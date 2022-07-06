@@ -1,3 +1,0 @@
-http_host: "AnsibleAutomation"
-http_conf: "ansible.conf"
-http_port: "80"
